@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avi Raj</h1>
 <h3 align="center">A passionate developer from India</h3>
-<a href="https://app.daily.dev/Hawkjack1729"><img align="right" src="https://api.daily.dev/devcards/ee03f962fff6495799a972983cde7dcd.png?r=5gg" width="300" alt="Avi Raj's Dev Card"/></a>
+<a href="https://app.daily.dev/Hawkjack1729"><img align="right" src="https://github.com/Hawkjack1729/Hawkjack1729/blob/main/devcard.svg" width="300" alt="Avi Raj's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawkjack1729&label=Profile%20views&color=0e75b6&style=flat" alt="hawkjack1729" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hawkjack1729" alt="hawkjack1729" /></a> </p>
