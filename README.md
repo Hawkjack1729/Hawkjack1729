@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/Hawkjack1729"><img align="right" src="https://github.com/Hawkjack1729/Hawkjack1729/blob/main/devcard.svg" width="300" alt="Avi Raj's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawkjack1729&label=Profile%20views&color=0e75b6&style=flat" alt="hawkjack1729" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hawkjack1729" alt="hawkjack1729" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="550" src="https://github-profile-trophy.vercel.app/?username=hawkjack1729" alt="hawkjack1729" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hawkjack1729" target="blank"><img src="https://img.shields.io/twitter/follow/hawkjack1729?logo=twitter&style=for-the-badge" alt="hawkjack1729" /></a> </p>
 
@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawkjack1729&show_icons=true&locale=en&layout=compact" alt="hawkjack1729" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hawkjack1729&show_icons=true&locale=en" alt="hawkjack1729" /></p>
+<p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=hawkjack1729&show_icons=true&locale=en" alt="hawkjack1729" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hawkjack1729&" alt="hawkjack1729" /></p>
+<p><img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=hawkjack1729&" alt="hawkjack1729" /></p>
 
